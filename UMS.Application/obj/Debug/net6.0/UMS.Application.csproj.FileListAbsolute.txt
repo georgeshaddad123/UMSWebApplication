@@ -1,0 +1,42 @@
+C:\Users\admin\Desktop\inmind.ai\Week 2\UMS\UMS.Application\bin\Debug\net6.0\UMS.Application.deps.json
+C:\Users\admin\Desktop\inmind.ai\Week 2\UMS\UMS.Application\bin\Debug\net6.0\UMS.Application.runtimeconfig.json
+C:\Users\admin\Desktop\inmind.ai\Week 2\UMS\UMS.Application\bin\Debug\net6.0\UMS.Application.dll
+C:\Users\admin\Desktop\inmind.ai\Week 2\UMS\UMS.Application\bin\Debug\net6.0\UMS.Application.pdb
+C:\Users\admin\Desktop\inmind.ai\Week 2\UMS\UMS.Application\bin\Debug\net6.0\UMS.Domain.dll
+C:\Users\admin\Desktop\inmind.ai\Week 2\UMS\UMS.Application\bin\Debug\net6.0\UMS.Persistence.dll
+C:\Users\admin\Desktop\inmind.ai\Week 2\UMS\UMS.Application\bin\Debug\net6.0\UMS.Domain.pdb
+C:\Users\admin\Desktop\inmind.ai\Week 2\UMS\UMS.Application\bin\Debug\net6.0\UMS.Persistence.pdb
+C:\Users\admin\Desktop\inmind.ai\Week 2\UMS\UMS.Application\obj\Debug\net6.0\UMS.Application.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\inmind.ai\Week 2\UMS\UMS.Application\obj\Debug\net6.0\UMS.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\inmind.ai\Week 2\UMS\UMS.Application\obj\Debug\net6.0\UMS.Application.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\inmind.ai\Week 2\UMS\UMS.Application\obj\Debug\net6.0\UMS.Application.AssemblyInfo.cs
+C:\Users\admin\Desktop\inmind.ai\Week 2\UMS\UMS.Application\obj\Debug\net6.0\UMS.Application.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\inmind.ai\Week 2\UMS\UMS.Application\obj\Debug\net6.0\UMS.Application.csproj.CopyComplete
+C:\Users\admin\Desktop\inmind.ai\Week 2\UMS\UMS.Application\obj\Debug\net6.0\UMS.Application.dll
+C:\Users\admin\Desktop\inmind.ai\Week 2\UMS\UMS.Application\obj\Debug\net6.0\refint\UMS.Application.dll
+C:\Users\admin\Desktop\inmind.ai\Week 2\UMS\UMS.Application\obj\Debug\net6.0\UMS.Application.pdb
+C:\Users\admin\Desktop\inmind.ai\Week 2\UMS\UMS.Application\obj\Debug\net6.0\UMS.Application.genruntimeconfig.cache
+C:\Users\admin\Desktop\inmind.ai\Week 2\UMS\UMS.Application\obj\Debug\net6.0\ref\UMS.Application.dll
+C:\Users\admin\Desktop\inmind.ai\Week2\UMS\UMS.Application\bin\Debug\net6.0\UMS.Application.deps.json
+C:\Users\admin\Desktop\inmind.ai\Week2\UMS\UMS.Application\bin\Debug\net6.0\UMS.Application.runtimeconfig.json
+C:\Users\admin\Desktop\inmind.ai\Week2\UMS\UMS.Application\bin\Debug\net6.0\UMS.Application.dll
+C:\Users\admin\Desktop\inmind.ai\Week2\UMS\UMS.Application\bin\Debug\net6.0\UMS.Application.pdb
+C:\Users\admin\Desktop\inmind.ai\Week2\UMS\UMS.Application\bin\Debug\net6.0\UMS.Domain.dll
+C:\Users\admin\Desktop\inmind.ai\Week2\UMS\UMS.Application\bin\Debug\net6.0\UMS.Persistence.dll
+C:\Users\admin\Desktop\inmind.ai\Week2\UMS\UMS.Application\bin\Debug\net6.0\UMS.Domain.pdb
+C:\Users\admin\Desktop\inmind.ai\Week2\UMS\UMS.Application\bin\Debug\net6.0\UMS.Persistence.pdb
+C:\Users\admin\Desktop\inmind.ai\Week2\UMS\UMS.Application\obj\Debug\net6.0\UMS.Application.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\inmind.ai\Week2\UMS\UMS.Application\obj\Debug\net6.0\UMS.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\inmind.ai\Week2\UMS\UMS.Application\obj\Debug\net6.0\UMS.Application.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\inmind.ai\Week2\UMS\UMS.Application\obj\Debug\net6.0\UMS.Application.AssemblyInfo.cs
+C:\Users\admin\Desktop\inmind.ai\Week2\UMS\UMS.Application\obj\Debug\net6.0\UMS.Application.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\inmind.ai\Week2\UMS\UMS.Application\obj\Debug\net6.0\UMS.Application.csproj.CopyComplete
+C:\Users\admin\Desktop\inmind.ai\Week2\UMS\UMS.Application\obj\Debug\net6.0\UMS.Application.dll
+C:\Users\admin\Desktop\inmind.ai\Week2\UMS\UMS.Application\obj\Debug\net6.0\refint\UMS.Application.dll
+C:\Users\admin\Desktop\inmind.ai\Week2\UMS\UMS.Application\obj\Debug\net6.0\UMS.Application.pdb
+C:\Users\admin\Desktop\inmind.ai\Week2\UMS\UMS.Application\obj\Debug\net6.0\UMS.Application.genruntimeconfig.cache
+C:\Users\admin\Desktop\inmind.ai\Week2\UMS\UMS.Application\obj\Debug\net6.0\ref\UMS.Application.dll
+C:\Users\admin\Desktop\inmind.ai\Week2\UMS\UMS.Application\bin\Debug\net6.0\UMS.Infrastructure.Abstraction.dll
+C:\Users\admin\Desktop\inmind.ai\Week2\UMS\UMS.Application\bin\Debug\net6.0\UMS.Infrastructure.dll
+C:\Users\admin\Desktop\inmind.ai\Week2\UMS\UMS.Application\bin\Debug\net6.0\UMS.Infrastructure.pdb
+C:\Users\admin\Desktop\inmind.ai\Week2\UMS\UMS.Application\bin\Debug\net6.0\UMS.Infrastructure.Abstraction.pdb
