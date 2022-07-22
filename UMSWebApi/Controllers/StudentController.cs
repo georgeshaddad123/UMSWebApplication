@@ -24,12 +24,12 @@ public class StudentController : ControllerBase
         return Ok(await _mediator.Send(command));
     }
     
-    [HttpGet("getStudentsPerCourse")]
-    public async Task<IActionResult> GetRoleById([FromQuery] int identifier)
+    [HttpGet("{identifier}")]
+    public async Task<IActionResult> GetStudentsByCourse([FromRoute] int identifier)
     {
         return Ok(await _mediator.Send(new GetStudentPerCourseQuerry()
         {
-            CourseId = identifier,
+            CourseId = identifier
         }));
     }
 }
