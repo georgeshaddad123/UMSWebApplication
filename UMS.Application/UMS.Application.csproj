@@ -45,7 +45,6 @@
       <Folder Include="Course\Querry" />
       <Folder Include="Mail\Querry" />
       <Folder Include="SessionTime\Querry" />
-      <Folder Include="Student\Querry" />
       <Folder Include="Teacher\Querry" />
     </ItemGroup>
 
