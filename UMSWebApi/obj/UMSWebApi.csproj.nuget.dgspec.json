@@ -115,6 +115,10 @@
               "target": "Package",
               "version": "[3.3.0, )"
             },
+            "Minio": {
+              "target": "Package",
+              "version": "[4.0.4, )"
+            },
             "Npgsql.EntityFrameworkCore.PostgreSQL": {
               "target": "Package",
               "version": "[7.0.0-preview.5, )"
@@ -267,6 +271,10 @@
             "MimeKit": {
               "target": "Package",
               "version": "[3.3.0, )"
+            },
+            "Minio": {
+              "target": "Package",
+              "version": "[4.0.4, )"
             },
             "Npgsql.EntityFrameworkCore.PostgreSQL": {
               "target": "Package",
@@ -424,6 +432,10 @@
             "MimeKit": {
               "target": "Package",
               "version": "[3.3.0, )"
+            },
+            "Minio": {
+              "target": "Package",
+              "version": "[4.0.4, )"
             },
             "Npgsql.EntityFrameworkCore.PostgreSQL": {
               "target": "Package",
@@ -585,6 +597,10 @@
               "target": "Package",
               "version": "[3.3.0, )"
             },
+            "Minio": {
+              "target": "Package",
+              "version": "[4.0.4, )"
+            },
             "Npgsql.EntityFrameworkCore.PostgreSQL": {
               "target": "Package",
               "version": "[7.0.0-preview.5, )"
@@ -741,6 +757,10 @@
             "MimeKit": {
               "target": "Package",
               "version": "[3.3.0, )"
+            },
+            "Minio": {
+              "target": "Package",
+              "version": "[4.0.4, )"
             },
             "Npgsql.EntityFrameworkCore.PostgreSQL": {
               "target": "Package",
@@ -907,6 +927,10 @@
             "MimeKit": {
               "target": "Package",
               "version": "[3.3.0, )"
+            },
+            "Minio": {
+              "target": "Package",
+              "version": "[4.0.4, )"
             },
             "Npgsql.EntityFrameworkCore.PostgreSQL": {
               "target": "Package",
